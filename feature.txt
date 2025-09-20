@@ -1,0 +1,8 @@
+
+# New Feature: Real-time Chat
+
+1. Cho phép người dùng chat trực tiếp trên website.
+2. Tích hợp SignalR để hỗ trợ kết nối real-time.
+3. Hiển thị danh sách người dùng đang online.
+4. Lưu trữ tin nhắn vào SQL Server.
+5. Thêm thông báo khi có tin nhắn mới.
