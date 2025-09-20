@@ -15,3 +15,7 @@
 8. Làm slide thuyết trình nhóm.
 9. Tổng kết cuối tuần, báo cáo nhóm.
 10. Chuẩn bị cho bài kiểm tra Git Final Exam.
+11. Học thêm về Git stash.
+12. Thực hành git diff.
+13. Viết báo cáo cuối kỳ Git.
+14. Lập kế hoạch ôn tập nhóm.
