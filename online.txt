@@ -1,3 +1,5 @@
 Đây là file tạo trực tiếp trên GitHub.
 Dùng để thực hành đồng bộ git pull.
 Commit từ web editor.
+Dòng bổ sung số 1 từ local.
+Dòng bổ sung số 2 từ local.
