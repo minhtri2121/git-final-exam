@@ -1,0 +1,4 @@
+
+- Git giúp quản lý lịch sử thay đổi.
+- Làm việc nhóm thuận tiện với branch/PR.
+- Hiểu rõ diff giúp review tốt hơn.
