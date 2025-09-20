@@ -1,0 +1,12 @@
+Họ tên: ĐOÀN MINH TRỊ
+Ngày sinh: 21/09/2004
+Học tập và làm việc tại Trường Đại Học Nam Cần Thơ
+Chuyên ngành: Công nghệ thông tin (IT)
+Sở thích:
+- Xem phim
+- Nghe nhạc
+- Chơi game
+Kỹ năng:
+- Lập trình web
+- C#
+- C++
